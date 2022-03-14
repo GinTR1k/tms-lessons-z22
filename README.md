@@ -1,1 +1,3 @@
-# Teach Me Skillzzzz lessons
+# Teach Me Skillzz lessons
+
+Домашние задания, их разбор, советы.
