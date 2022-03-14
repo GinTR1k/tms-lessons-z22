@@ -1,1 +1,1 @@
-# tms-lessons
+# Teach Me Skillzzzz lessons
